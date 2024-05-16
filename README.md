@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovicsa&label=Profile%20views&color=0e75b6&style=flat" alt="joaovicsa" /> </p>
 
-- 🔭 I’m currently working on **Postgram**
+- 🔭 I’m currently working on **Postgram** <a href="https://github.com/joaovicsa/instagram-project">See the Project</a>
 
 - 🌱 I’m currently learning **React & NextJS 14**
 

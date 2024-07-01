@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm João Sá</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovicsa&label=Profile%20views&color=0e75b6&style=flat" alt="joaovicsa" /> </p>
 
-- 🔭 I’m currently working on **Postgram** <a href="https://github.com/joaovicsa/instagram-project">See the Project</a>
+- 🔭 See my latest project **Postgram** <a href="https://github.com/joaovicsa/instagram-project">See the Project</a>
 
-- 🌱 I’m currently learning **React & NextJS 14**
+- 🌱 I’m currently learning **Java & NextJS 14**
 
 - 📫 How to reach me **joao.vsaa90@gmail.com**
 

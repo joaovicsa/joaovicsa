@@ -4,7 +4,7 @@
 
 - 🔭 See my latest project **Postgram** <a href="https://github.com/joaovicsa/instagram-project">See the Project</a>
 
-- 🌱 I’m currently learning **Java & Angular**
+- 🌱 I'm currently improving my knowledge in NextJS
 
 - 📫 How to reach me **joao.vsaa90@gmail.com**
 

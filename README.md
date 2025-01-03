@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Brazil</h3>
 
 
-- 🔭 See my latest project **Postgram** <a href="https://github.com/joaovicsa/instagram-project">See the Project</a>
+- 🔭 See my latest project **JSM Banking** <a href="https://github.com/joaovicsa/jsm-banking">See the Project</a>
 
 - 🌱 I'm currently improving my knowledge in NextJS
 

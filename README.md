@@ -17,9 +17,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovicsa&show_icons=true&locale=en&hide=issues" alt="joaovicsa" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovicsa&" alt="joaovicsa" />
-</p>
-<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=joaovicsa&theme=dracula&no-bg=true&no-frame=true" alt="GitHub Profile Trophy" />
   </a>

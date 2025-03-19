@@ -3,7 +3,7 @@
 
 - 🔭 See my latest project **JSM Banking** <a href="https://github.com/joaovicsa/jsm-banking">See the Project</a>
 
-- 🌱 I'm currently improving my knowledge in TDD
+- 🌱 I'm currently learning Vue
 
 - 📫 How to reach me **joao.vsaa90@gmail.com**
 

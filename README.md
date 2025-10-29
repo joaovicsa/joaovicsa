@@ -3,7 +3,7 @@
 
 - 🔭 See my latest project **Banking Interface** this was a test for an Interview <a href="https://github.com/joaovicsa/banco-interface">See the Project</a>
 
-- 🌱 I'm currently improving my knowledge in VueJS 
+- 🌱 I'm currently improving my knowledge in APIs RESTFUL
 
 - 📫 How to reach me **joao.vsaa90@gmail.com**
 

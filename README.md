@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Sá</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-- 🔭 See my latest project **JSM Banking** <a href="https://github.com/joaovicsa/jsm-banking">See the Project</a>
+- 🔭 See my latest project **Banking Interface** this was a test for an Interview <a href="https://github.com/joaovicsa/banco-interface">See the Project</a>
 
 - 🌱 I'm currently improving my knowledge in VueJS 
 

@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm João Sá</h1>
-  <p><strong>Full-Stack Web Developer | ServiceNow Enthusiast</strong></p>
+  <p><strong>FullStack Developer | ServiceNow Application Developer</strong></p>
 
-  <img src="https://komarev.com/ghpvc/?username=joaovicsa&label=Profile%20views&color=0e75b6&style=flat" alt="joaovicsa" />
 </div>
 
 ---

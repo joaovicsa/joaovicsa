@@ -26,6 +26,9 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img alt="ServiceNow" src="https://img.shields.io/badge/servicenow?labelColor=black&color=green&link=https%3A%2F%2Flearning.servicenow.com%2Fnow%2Flxp%2Fhome">
+
+
   
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />

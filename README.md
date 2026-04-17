@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img alt="ServiceNow" src="https://img.shields.io/badge/servicenow?labelColor=black&color=green&link=https%3A%2F%2Flearning.servicenow.com%2Fnow%2Flxp%2Fhome">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Now-Serivce?style=flat&label=Service&labelColor=rgba(0%2C%200%2C%200%2C%200.8)&color=rgba(8%2C%20254%2C%200%2C%200.8)&link=https%3A%2F%2Flearning.servicenow.com%2Fnow%2Flxp%2Fhome">
 
 
   
